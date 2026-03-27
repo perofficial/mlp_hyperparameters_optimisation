@@ -5,7 +5,7 @@
 This project implements a multilayer neural network (MLP) to classify iris flower species using the Iris dataset. It includes data preprocessing, exploratory data analysis (EDA), feature scaling, model training, hyperparameter optimisation using Bayesian Optimisation (Optuna), and evaluation.
 
 Dataset source:  
-https://www.kaggle.com/datasets/uciml/iris
+https://www.kaggle.com/datasets/souravbhattacharya10/irisdataset
 
 ---
 
